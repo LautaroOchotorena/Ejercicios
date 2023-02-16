@@ -1,6 +1,6 @@
 Esta es una práctica de la materia Herramientas Computacionales para Matemática Aplicada, una optativa de la carrera.
 
-Los enunciados de los ejercicios se pueden leer en "Práctica 5 - Introducción a la programación en C++ y al uso de la librería científica gsl"
+Los enunciados de los ejercicios se pueden leer en "Práctica 5 - Introducción a la programación en C++ y al uso de la librería científica gsl".
 Seleccioné sólo algunos ejercicios, los cuales considero que son los de mayor importancia.
 Estos son algunos de los ejercicios resueltos:
 
