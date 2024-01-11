@@ -13,4 +13,4 @@ El [ejercicio 8](https://github.com/LautaroOchotorena/Ejercicios/blob/main/Ejerc
 El [ejercicio 9](https://github.com/LautaroOchotorena/Ejercicios/blob/main/Ejercicio9.cpp) grafica un spline usando gsl y xmgrace.<br>
 
 **Requerimientos:**<br>
-C++, gsl, xmgrace.
+C++, gsl y xmgrace.
